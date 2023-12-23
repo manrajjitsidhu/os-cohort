@@ -1,7 +1,8 @@
 // String handbook
 
 // String: length, indexOf(), lastIndexOf(), slice(), substring(), replace(),
-// split(), trim(), toUpperCase(), toLowerCase(), etc.
+// split(), trim(), toUpperCase(), toLowerCase(), etc. 
+//extra
 
 // Run each function to see the output, play and learn by doing.
 
